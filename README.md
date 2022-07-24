@@ -67,9 +67,6 @@
 
 **Read more about the Well app on [the project homepage](https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme).**
 
-# 📒 Wiki
-
-This project repository has [a great wiki](https://github.com/chroline/well_app/wiki) (currently WIP) that you should consider reading! It goes into detail about the project from a more technical aspect. If you are interested in learning more about the app itself, go ahead and check it out!
 
 # 👨‍💻 Tech stack
 
