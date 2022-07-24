@@ -21,7 +21,7 @@
 
 # 👋 Introduction
 
-> My name is Muhammad Ali and I am an Artificial Intelligence postgraduate at University of Liverpool. My areas of interest include deep learning networks and blockchain integration.
+> My name is Muhammad Ali and I am a part-time Artificial Intelligence postgraduate at University of Liverpool. My areas of interest include deep learning networks, natural language processing and blockchain. 
 > 
 > There are 5 daily tasks that the Well app asks you to complete each day: record 3 gratitudes, write a journal entry, perform 3 acts of kindness, exercise for 20 minutes, and meditate for 15 minutes.
 
