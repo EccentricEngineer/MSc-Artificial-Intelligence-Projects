@@ -28,18 +28,6 @@
   
 </a>
   
-<a href='https://projects.colegaw.in/well-app/research?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
-  
-<img src='https://img.shields.io/badge/RESEARCH-blue?style=for-the-badge'>
-  
-</a>
-  
-<a href='https://projects.colegaw.in/well-app/case-study?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
-  
-<img src='https://img.shields.io/badge/CASE STUDY-green?style=for-the-badge'>
-  
-</a>
-  
 <br />
   
 <br />
