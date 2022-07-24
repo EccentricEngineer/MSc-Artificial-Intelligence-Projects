@@ -1,4 +1,4 @@
-![MSc Artificial Intelligence Portfolio](liverpool.png)
+![MSc Artificial Intelligence Portfolio](liverpooluni.png)
 
 <div align='center'>
   
