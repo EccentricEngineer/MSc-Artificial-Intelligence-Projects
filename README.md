@@ -17,7 +17,6 @@
 ---
 
 ## Associated with nine Nobel Prize winners and consistently ranked in the top 200 universities worldwide, Liverpool is a member of the prestigious Russell Group of the UK’s leading research universities with an annual turnover of £523 million, including £95 million for research.
----
 
 <br />
 
