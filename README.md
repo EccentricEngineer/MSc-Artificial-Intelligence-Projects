@@ -18,18 +18,9 @@
 
 ## Associated with nine Nobel Prize winners and consistently ranked in the top 200 universities worldwide, Liverpool is a member of the prestigious Russell Group of the UK’s leading research universities with an annual turnover of £523 million, including £95 million for research.
 
+---
+
 <br />
-
-<div align="center">
-
-**[PROJECT PHILOSOPHY](https://github.com/chroline/well_app#-project-philosophy) • 
-[WIKI](https://github.com/chroline/well_app#-wiki) • 
-[TECH STACK](https://github.com/chroline/well_app#-tech-stack) • 
-[CONTRIBUTING](https://github.com/chroline/well_app#%EF%B8%8F-contributing) • 
-[SPREAD THE WORD](https://github.com/chroline/well_app#-spread-the-word) • 
-[LICENSE](https://github.com/chroline/well_app#%EF%B8%8F-license)**
-
-</div>
 
 <br />
 
