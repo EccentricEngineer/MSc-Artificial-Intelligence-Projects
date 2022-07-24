@@ -20,10 +20,6 @@
 
 ---
 
-<br />
-
-<br />
-
 # 🧐 Project philosophy
 
 > The Well app is a mental health and mindfulness app built on top of the science of positive psychology. The Well app is more than just another meditation or journaling app; it encourages you to enhance and reflect on your day with structured, guided activities.
