@@ -28,7 +28,7 @@
 **Read more about the Well app on [the project homepage](https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme).**
 
 
-# 👨‍💻 Tech stack
+# 👨‍💻 Projects
 
 Here's a brief high-level overview of the tech stack the Well app uses:
 
