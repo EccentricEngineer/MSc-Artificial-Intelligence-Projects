@@ -1,4 +1,4 @@
-![The Well App](thumbnail.png)
+![MSc Artificial Intelligence Portfolio](liverpool.png)
 
 <div align='center'>
   
