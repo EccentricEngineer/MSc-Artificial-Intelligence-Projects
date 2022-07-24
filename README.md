@@ -2,16 +2,6 @@
 
 <div align='center'>
   
-<a href='https://github.com/chroline/well_app/releases'>
-  
-<img src='https://img.shields.io/github/v/release/chroline/well_app?color=%23FDD835&label=version&style=for-the-badge'>
-  
-</a>
-  
-<img src='https://img.shields.io/github/license/chroline/well_app?style=for-the-badge'>
-  
-</a>
-  
 </div>
 
 <br />
@@ -19,8 +9,6 @@
 ---
 
 <div align='center'>
-  
-### Quick Links
   
 <a href='https://www.liverpool.ac.uk'>
   
