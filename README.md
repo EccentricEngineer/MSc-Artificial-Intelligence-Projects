@@ -23,7 +23,7 @@
 
 > My name is Muhammad Ali and I am a part-time Artificial Intelligence postgraduate at University of Liverpool. My areas of interest include deep learning networks, natural language processing and blockchain. 
 > 
-> There are 5 daily tasks that the Well app asks you to complete each day: record 3 gratitudes, write a journal entry, perform 3 acts of kindness, exercise for 20 minutes, and meditate for 15 minutes.
+> For the last three years, I have worked as a data analyst (Python, SQL, Tableau) in a diverse education sector, focusing 
 
 **Read more about the Well app on [the project homepage](https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme).**
 
