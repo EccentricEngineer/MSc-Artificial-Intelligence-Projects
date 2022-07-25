@@ -2,7 +2,7 @@
 
 <div align='center'>
   
-<a href='https://www.liverpool.ac.uk'>
+<a href='https://www.liverpool.ac.uk/computer-science/about/'>
   
 <img src='https://img.shields.io/badge/HOMEPAGE-gray?style=for-the-badge'>
   
