@@ -25,7 +25,7 @@
 > 
 > For the last three years, I have worked as a data analyst (Python, SQL, Tableau) in a diverse education sector. Additionally, I completed an intensive full stack development bootcamp (Le Wagon) last month (17th June). Currently, I am looking for ML focused junior software engineering roles in london or remote.
 
-**You can visit my LinkedIn profile [here]([https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme](https://www.linkedin.com/in/muhammadali7/)).**
+**You can visit my LinkedIn profile [here](https://www.linkedin.com/in/muhammadali7/).**
 
 
 # 👨‍💻 Projects
