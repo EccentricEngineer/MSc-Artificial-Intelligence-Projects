@@ -32,8 +32,8 @@
 
 Here's a brief high-level overview of the main projects completed in the last 1.5 years (2021-22):
 
-- Development of generative chatbot utlising Seq-2-seq algorithms owing to their sequential learning and predictive properties; two seq-2-seq models with and without an attention layer are constructed and WikiQA dataset selected for experiments. Future work might include dropout layer integration to tackle overfitting and experimentation with token dropout to enhance data augmentation.
-- For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
+- Development of a generative chatbot utlising Seq-2-seq algorithms owing to their sequential learning and predictive properties; two seq-2-seq models with and without an attention layer are constructed and WikiQA dataset selected for experiments. Future work might include dropout layer integration to tackle overfitting and experimentation with token dropout to enhance data augmentation.
+- Almedius is a software which solves Sudoku with the aid of genetic algorithms; in terms of comparative performance of selection strategies, roulette outperforms tournament, which in turn outperforms ranked. Future work might involve implementation of dynamic adaptation of the mutation rate, avoiding unnecessary competition by opting for a single population with a higher amount of chromosomes. 
 - To send local push notifications, the app uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) package which supports Android, iOS, and macOS.
 - The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
 
