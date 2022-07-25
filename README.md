@@ -23,9 +23,9 @@
 
 > My name is Muhammad Ali and I am a part-time Artificial Intelligence postgraduate at University of Liverpool. My areas of interest include deep learning networks, natural language processing and blockchain. 
 > 
-> For the last three years, I have worked as a data analyst (Python, SQL, Tableau) in a diverse education sector, focusing 
+> For the last three years, I have worked as a data analyst (Python, SQL, Tableau) in a diverse education sector. Additionally, I completed an intensive full stack development bootcamp (Le Wagon) last month (17th June). Currently, I am looking for ML focused junior software engineering roles in london or remote.
 
-**Read more about the Well app on [the project homepage](https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme).**
+**You can visit my LinkedIn profile [here]([https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme](https://www.linkedin.com/in/muhammadali7/)).**
 
 
 # 👨‍💻 Projects
