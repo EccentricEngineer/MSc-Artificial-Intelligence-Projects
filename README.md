@@ -21,7 +21,7 @@
 
 # 👋 Introduction
 
-> My name is Muhammad Ali and I am a part-time Artificial Intelligence postgraduate at University of Liverpool. My areas of interest include deep learning networks, natural language processing and blockchain. 
+> My name is Muhammad Ali, an Artificial Intelligence postgraduate at University of Liverpool. My areas of interest include deep learning networks, natural language processing and blockchain. 
 > 
 
 **You can visit my LinkedIn profile [here](https://www.linkedin.com/in/muhammadali7/).**
